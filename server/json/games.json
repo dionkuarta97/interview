@@ -1,0 +1,22 @@
+[
+    {
+        "name": "GTA V",
+        "picture" : "https://upload.wikimedia.org/wikipedia/id/a/a5/Grand_Theft_Auto_V.png"
+    },
+    {
+        "name" : "Mobile Legend",
+        "picture" : "https://exp.itemku.com/wp-content/uploads/2021/09/mobile-legends-logo-e1630992256662.jpg"
+    },
+    {
+        "name" : "Genshin Impact",
+        "picture" : "https://media.suara.com/pictures/970x544/2020/08/31/69437-genshin-impact-mihoyo.jpg"
+    },
+    {
+        "name" : "PUBG",
+        "picture" : "https://play-lh.googleusercontent.com/JRd05pyBH41qjgsJuWduRJpDeZG0Hnb0yjf2nWqO7VaGKL10-G5UIygxED-WNOc3pg"
+    },
+    {
+        "name" : "Fortnite",
+        "picture" : "https://dropsdejogos.uai.com.br/wp-content/uploads/sites/10/2020/09/fortnite-1-scaled.jpg"
+    }
+]

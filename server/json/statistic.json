@@ -1,0 +1,82 @@
+[
+    {
+        "userId": 1,
+        "gameId" : 1,
+        "hoursPlay": 3
+    },
+    {
+        "userId": 1,
+        "gameId" : 2,
+        "hoursPlay": 1
+    },
+    {
+        "userId": 1,
+        "gameId" : 3,
+        "hoursPlay": 2
+    },
+    {
+        "userId": 1,
+        "gameId" : 4,
+        "hoursPlay": 4
+    },
+    {
+        "userId": 2,
+        "gameId" : 1,
+        "hoursPlay": 3
+    },
+    {
+        "userId": 2,
+        "gameId" : 2,
+        "hoursPlay": 1
+    },
+    {
+        "userId": 2,
+        "gameId" : 3,
+        "hoursPlay": 2
+    },
+    {
+        "userId": 2,
+        "gameId" : 4,
+        "hoursPlay": 4
+    },
+    {
+        "userId": 3,
+        "gameId" : 1,
+        "hoursPlay": 3
+    },
+    {
+        "userId": 3,
+        "gameId" : 2,
+        "hoursPlay": 1
+    },
+    {
+        "userId": 3,
+        "gameId" : 3,
+        "hoursPlay": 2
+    },
+    {
+        "userId": 3,
+        "gameId" : 4,
+        "hoursPlay": 4
+    },
+    {
+        "userId": 4,
+        "gameId" : 1,
+        "hoursPlay": 3
+    },
+    {
+        "userId": 4,
+        "gameId" : 2,
+        "hoursPlay": 1
+    },
+    {
+        "userId": 4,
+        "gameId" : 3,
+        "hoursPlay": 2
+    },
+    {
+        "userId": 4,
+        "gameId" : 4,
+        "hoursPlay": 4
+    }
+]

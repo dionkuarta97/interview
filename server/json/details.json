@@ -1,0 +1,92 @@
+[
+    {
+        "userId" : 1,
+        "gameId" : 1,
+        "coin" : 1892,
+        "exp" : 124
+    },
+    {
+        "userId" : 1,
+        "gameId" : 3,
+        "coin" : 1092,
+        "exp" : 122
+    },
+    {
+        "userId" : 1,
+        "gameId" : 2,
+        "coin" : 102,
+        "exp" : 11
+    },
+    {
+        "userId" : 2,
+        "gameId" : 1,
+        "coin" : 102,
+        "exp" : 60
+    },
+    {
+        "userId" : 2,
+        "gameId" : 4,
+        "coin" : 1012,
+        "exp" : 78
+    },
+    {
+        "userId" : 2,
+        "gameId" : 2,
+        "coin" : 101,
+        "exp" : 111
+    },
+    {
+        "userId" : 2,
+        "gameId" : 3,
+        "coin" : 1112,
+        "exp" : 403
+    },
+    {
+        "userId" : 3,
+        "gameId" : 1,
+        "coin" : 332,
+        "exp" : 612
+    },
+    {
+        "userId" : 3,
+        "gameId" : 4,
+        "coin" : 112,
+        "exp" : 12
+    },
+    {
+        "userId" : 3,
+        "gameId" : 2,
+        "coin" : 1111,
+        "exp" : 11
+    },
+    {
+        "userId" : 3,
+        "gameId" : 3,
+        "coin" : 819,
+        "exp" : 189
+    },
+    {
+        "userId" : 4,
+        "gameId" : 1,
+        "coin" : 2342,
+        "exp" : 235
+    },
+    {
+        "userId" : 4,
+        "gameId" : 4,
+        "coin" : 1542,
+        "exp" : 346
+    },
+    {
+        "userId" : 4,
+        "gameId" : 2,
+        "coin" : 5234,
+        "exp" : 672
+    },
+    {
+        "userId" : 4,
+        "gameId" : 3,
+        "coin" : 213,
+        "exp" : 342
+    }
+]
